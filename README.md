@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SeshuTarapatla
 - 👀 I’m interested in C, C++ & Python
-- 🌱 I’m currently learning C++ & how to use GitHub for my projects and conding.
+- 🌱 I’m currently learning C++ & how to integrate GitHub in my projects and coding.
 - 📫 Mail: seshu.tarapatla@gmail.com
 - 💞️ Social Platforms: Instagram: @_seshu.3, Facebook: seshu.tarapatla.3, Discord: LoneWolf#3995
 
